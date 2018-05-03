@@ -12,7 +12,7 @@
 public class Template {
 
   //insert solution here
-  //plz comment your code so people can get edumacated
+  //plz comment your code so people can get edumacated!
 
 
   public static void main(String[] args) {
