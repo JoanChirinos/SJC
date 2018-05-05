@@ -9,6 +9,8 @@
   //(anything someone else might find useful)
 */
 
+import java.util.Scanner;
+
 public class Template {
 
   //insert solution here
